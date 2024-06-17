@@ -21,7 +21,7 @@ https://npcap.com/dist/npcap-1.79.exe
 - `timeout`: batas waktu dalam hitungan detik untuk respon PS4, 0 berarti selalu menunggu (default = `0`)
 - `groom_delay`: tunggu 1 md setiap putaran `groom-delay` selama perawatan Heap (default = `4`)
 
-### credit :
+### Credit :
 - TheOfficialFloW
 - xfangfang
 - SiSTR0
